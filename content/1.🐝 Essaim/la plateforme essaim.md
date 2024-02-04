@@ -1,0 +1,5 @@
+La plateforme essaim s'appuie sur une démarche innovante de co-construction avec les acteurs de la formation.
+
+Grâce à cette plateforme collaborative de design, les dispositifs de formation peuvent être créés et hybridés pour répondre aux besoins spécifiques des [[apprenants]] et du marché du travail. Cette approche favorise l'innovation pédagogique et garantit une adaptation constante aux exigences changeantes de notre société.
+
+La plateforme propose un outil de création de parcours permettant à tous les [[designers-facilitateurs]] de concevoir des parcours développant les [[soft skills]]. Les concepteurs pourront sélectionner des gabarits de parcours déjà prêts ou choisir de composer eux-mêmes leur parcours en agençant les objets apprenants pour construire un parcours sur mesure. Les utilisateurs pourront également explorer le contenu de la plateforme pour en apprendre davantage sur l'[[employabilité]] et les soft skills.

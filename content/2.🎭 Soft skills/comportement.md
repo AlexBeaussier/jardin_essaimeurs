@@ -1,0 +1,9 @@
+Selon la [[théorie sociale cognitive|théorie sociale cognitive]] de Bandura, le comportement humain résulte de l'interaction dynamique entre des facteurs personnels, environnementaux et comportementaux. Le comportement est façonné par ce que l'individu pense, ressent et perçoit, mais aussi par l'environnement dans lequel il évolue et les expériences comportementales qu'il a vécues (Bandura, 2008). Il est également influencé par le [[stress psychologique|stress psychologique]], conceptualisé dans le modèle [[transaction|transactionnel]] comme un processus dynamique impliquant des [[évaluation cognitive|évaluations cognitives]] et des efforts d'ajustement (ou [[stratégies de coping|stratégies de coping]]) (Lazarus et Folkman, 1984) .
+
+Dans ce modèle, le comportement émerge de l'[[évaluation cognitive|évaluation]] par l'individu de sa relation à l'[[environnement]] comme potentiellement menaçante pour son bien-être, et de sa capacité perçue à y faire face. Il reflète les [[stratégies de coping|stratégies]] mises en place pour gérer une situation stressante sur la base d'une appréciation cognitive des exigences de l'environnement et des ressources personnelles. Ainsi, **le comportement dépend de la perception et de l'interprétation par l'individu des événements, et non de leurs propriétés objectives**.
+
+Tout comme dans la théorie de Bandura, le comportement apparaît ici comme le produit des transactions dynamiques entre facteurs personnels et environnementaux. Il résulte de choix délibérés effectués par un individu proactif sur la base de son évaluation cognitive d'une situation et des ressources dont il perçoit disposer pour y faire face. Le modèle du stress psychologique fournit un cadre complémentaire utile pour comprendre comment les exigences perçues de l'environnement et les stratégies personnelles d'ajustement peuvent influencer le comportement humain. 
+
+>[!seealso] Exemples de comportements observables
+>![[soft skills.webp]]
+

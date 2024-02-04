@@ -1,0 +1,7 @@
+La sécurité psychologique fait référence à la perception qu'ont les individus de pouvoir s'engager dans des relations interpersonnelles, des interactions sociales ou des [[environnement|environnements]] sans crainte d'être négativement évalués ou punis (Kahn, 1990). Elle renvoie au sentiment de pouvoir prendre des risques interpersonnels en exprimant librement ses idées et ses questions sans représailles (Edmondson, 1999).
+
+Une sécurité psychologique élevée accroît la [[capacité d’agir]] des acteurs en encourageant l'ouverture à l'échange, la flexibilité cognitive et l'[[apprentissage]]. En réduisant les inhibitions liées à la menace d'un jugement social défavorable, elle permet aux individus de sortir des modes de pensée convenus, de remettre en question les routines établies et d'explorer de nouvelles idées. 
+
+À l'inverse, un faible niveau de sécurité psychologique limite la [[capacité d’agir]] en focalisant l'[[attention]] sur l'autorégulation des [[comportement|comportements]] et la protection de l'image sociale. Il freine la créativité, l'innovation et la collaboration en incitant à la conformité par crainte de l'embarras ou de la sanction.
+
+La sécurité psychologique apparaît ainsi comme une condition essentielle au développement du potentiel humain dans les organisations en libérant les énergies créatrices et les synergies cognitives entre les individus (Kahn, 1990 ; Edmondson, 1999). 

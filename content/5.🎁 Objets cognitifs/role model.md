@@ -1,0 +1,3 @@
+#essaimeurs #scholanova #outil 
+
+Un *role model* est une personnalité dont le [[comportement]], l'exemple ou le succès est (ou peut être) imité par des tiers, notamment par des personnes plus jeunes. Le terme *role model* émane du sociologue Robert King Merton lequel formule l'hypothèse que les individus se comparent avec des groupes de référence qui exercent une position sociale à laquelle aspirent les premiers.

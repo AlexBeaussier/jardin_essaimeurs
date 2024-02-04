@@ -1,0 +1,1 @@
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVM8xV3aE=/?moveToViewport=-503,-263,1004,525&embedId=865649928904" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

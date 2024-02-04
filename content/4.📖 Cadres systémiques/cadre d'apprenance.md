@@ -1,0 +1,3 @@
+*Comment apprendre pour mieux faire ?*
+Le cadre d’[[apprenance]] désigne les **processus qui permettent l’amélioration continue, la transmission et la croissance de la conscience et de l'[[attention]] au sein d'un collectif.** Ce cadre est rendu possible par la combinaison des autres cadres, car pour [[apprentissage|apprendre]], il est nécessaire de se sentir en confiance. La [[sécurité psychologique]] est en effet indispensable pour se sentir capable de partager avec les autres, de décider et d'agir ensemble pour progresser. En tant qu'il vise l'amélioration continue du collectif, le cadre d'apprenance a un effet rétroactif sur les autres cadres. 
+

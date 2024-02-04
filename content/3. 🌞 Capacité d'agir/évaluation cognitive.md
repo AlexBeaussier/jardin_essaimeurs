@@ -1,0 +1,4 @@
+L'évaluation cognitive est le processus cognitif par lequel un individu évalue une **situation** **donnée**, ainsi que les **ressources** dont il dispose pour faire face à cette situation. Deux évaluations peuvent être distinguées : 
+- L'évaluation primaire, qui consiste pour l'individu à évaluer ce qui est en jeu dans la situation.
+- L'évaluation secondaire, qui consiste pour l'individu à évaluer non plus la situation elle-même, mais les capacités qu'il croit pouvoir utiliser pour [[capacité d’agir|agir]].
+Ces deux évaluations convergent et permettent à l'individu de déterminer à la fois le potentiel [[stress psychologique|stressant]] de la situation et les [[stratégies de coping]] individuelles susceptibles d'être mobilisées pour y faire face.

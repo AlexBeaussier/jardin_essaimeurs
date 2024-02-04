@@ -1,0 +1,5 @@
+La motivation désigne la force qui pousse l'individu à adopter un certain [[comportement|comportement]] ou à réaliser un certain nombre d’efforts en vue d’obtenir une récompense déterminée. Lorsque j’accomplis un certain effort, je m’attends à obtenir quelque chose de satisfaisant en retour. 
+
+Il existe deux types de motivation : 
+- La motivation **intrinsèque** : la récompense est contenue par le comportement, c’est-à-dire que c’est le simple fait de réaliser le comportement qui est recherché. Le comportement n’est pas un moyen en vue d’obtenir une satisfaction mais la fin elle-même.
+- La motivation **extrinsèque** : la récompense n’est pas inhérente au comportement, elle est promise par un agent externe. Le comportement est ici un moyen en vue d’obtenir une récompense, dont la fin est en-dehors du sujet agissant et du comportement lui-même.

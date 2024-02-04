@@ -1,0 +1,8 @@
+Dans le cadre du modèle transactionnel du [[stress psychologique|stress]], les effets médiateurs et modérateurs expliquent pourquoi l'exposition à des facteurs de stress (variables indépendantes) conduit à différentes issues en termes d'[[agentivité|agentivité]], d'[[apprenance|apprenance]], de santé et de bien-être (variables dépendantes) selon les individus. 
+
+Les variables médiatrices, telles que le soutien social perçu ou le contrôle perçu, transmettent l'influence des stresseurs sur les conséquences psychologiques et physiologiques qui en résultent. Elles constituent un maillon de la chaîne causale reliant les causes aux effets (Lazarus & Folkman, 1984). Les variables modératrices, comme le [[stratégies de coping|coping]] (stratégies d'ajustement), modulent la force ou la direction de la relation entre les stresseurs et leurs effets sans pour autant médier le processus causal. Leur action renforce (effet d'amplification) ou affaiblit (effet tampon) l'impact du stress sur les individus.
+
+Ainsi, l'inclusion de médiateurs et de modérateurs dans le modèle transactionnel permet de mieux comprendre les variations observées dans les réactions au stress. Ils sont essentiels pour expliquer pourquoi certains parviennent à s'ajuster avec succès quand d'autres manifestent des troubles psychologiques ou physiques en réponse à des événements stressants comparables.
+
+>[!Pour en savoir plus]
+>**[Rendez-vous ici](https://vimeo.com/showcase/capacitedagir) avec votre code secret…** 

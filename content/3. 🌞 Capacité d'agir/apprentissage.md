@@ -1,0 +1,1 @@
+L’apprentissage désigne l’ensemble des processus de mémorisation mis en œuvre par l’individu pour modifier un [[comportement]]. Il s’agit d’une manière d’adapter ses conduites par l’entraînement et la répétition.

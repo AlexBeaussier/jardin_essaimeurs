@@ -1,0 +1,7 @@
+La cognitive map s'appuie sur les sciences cognitives pour mettre en évidence le modèle de pensée complexe d'un persona, lequel peut être aussi bien individuel que collectif. La cognitive map propose de **définir le persona comme un système, un ensemble de processus et de [[transaction|transactions]] internes et externes, digitales et physiques**, qui vont définir ce que l'on pense, ce que l'on fait et comment on se [[comportement|comportera]] dans un futur plus ou moins proche, mais qui peuvent également changer notre manière d'appréhender un vécu.
+
+Au lieu de se questionner sur ce que notre persona dit, on va s'intéresser à la manière dont il le dit, à pourquoi il le dit, mais aussi à ce qu'il ne dit pas. On s'intéresse au parcours cognitif qui va déterminer une action, à tout ce qui la précède. L'action en elle-même en dit finalement beaucoup moins sur son auteur que l'ensemble des processus qui l'ont poussé à [[capacité d’agir|agir ou à ne pas agir]].  La cognitive map a donc pour vocation de **révéler le filtre à travers lequel un persona appréhende le monde** ; elle permet de comprendre autant que possible le système de pensée et d'actions du persona. 
+
+Les [[essaimeurs]] ont découvert la cognitive map lors de la [[3ème séance. 11 janvier|séance 3 de leur parcours]] consacrée au design cognitif et à l'[[apprenance]]. 
+
+![[cognitive map-20240114125917905.webp]]

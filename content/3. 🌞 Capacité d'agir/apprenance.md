@@ -1,0 +1,10 @@
+Selon Philippe Carré (2005), l'apprenance désigne "*l'ensemble des dispositions affectives, cognitives et conatives favorables à l'acte d'apprendre, dans toutes les situations formelles ou informelles, de façon expérientielle ou didactique, intentionnelle ou fortuite*". Elle renvoie à la propension d'un individu à s'engager dans des activités d'apprentissage de manière active et volontaire. Elle découle ainsi du [[sentiment d'efficacité personnelle]], d'une [[motivation]] autonome pour le savoir et l'acquisition de nouvelles [[compétence|compétences]], ainsi que des qualités telles que la curiosité, l'ouverture d'esprit et la persistance face aux obstacles cognitifs.
+
+Plus une personne manifeste une apprenance élevée, plus elle fait preuve de la "*capacité d'être à l'origine de ses propres actes*" (Bandura, 2003) dans le domaine du développement de ses connaissances et compétences. L'apprenance nourrit le potentiel d'évolution individuel en continuité avec les transformations de la société. Ainsi, apprenance et [[agentivité|agentivité]] se nourrissent mutuellement : plus l'individu fait preuve d'une forte motivation à apprendre et à relever des défis intellectuels, plus il se sent à l'origine de son propre cheminement et capable de produire les résultats escomptés. Réciproquement, plus il perçoit de contrôle sur sa destinée, plus il s'engage aisément dans des activités d'[[apprentissage]] pour élargir la marge de manœuvre dont il dispose.
+
+Comme le souligne Carré, l'apprenance constitue une "*arme anti-vieillissement intellectuel et social*". En cultivant l'apprenance de chacun, on accroît sa [[motivation]] et sa capacité à influencer activement la course de son propre développement cognitif. On lui fournit les ressources psychologiques pour s'engager de manière autonome et efficace dans un processus de formation tout au long de la vie et pour relever les défis inévitables liés au changement perpétuel des connaissances et des compétences. 
+
+L'apprenance apparaît ainsi comme une qualité essentielle dans les sociétés de savoir d'aujourd'hui, où la maîtrise du changement devient une compétence-clé.
+
+
+

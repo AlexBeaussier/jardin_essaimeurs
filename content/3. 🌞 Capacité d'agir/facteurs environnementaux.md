@@ -1,0 +1,4 @@
+Les facteurs environnementaux modulent les [[transaction|transactions]] effectuées entre l'individu, les autres et l'environnement. Ils peuvent être considérés comme des variables transactionnelles, c’est-à-dire comme des modulateurs de la transaction existante entre l’[[environnement]] et l’individu. Ils peuvent faire varier une transaction, selon la perception qu’en a l’individu. En effet, d’un individu à l’autre, les facteurs environnementaux n’agissent pas de la même manière sur la [[capacité d’agir]] : certains tendent à favoriser son déploiement, alors que d'autres tendent à l’inhiber. 
+
+>[!Pour en savoir plus]
+>**[Rendez-vous ici](https://vimeo.com/showcase/capacitedagir) avec votre code secret…** 

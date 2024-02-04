@@ -1,0 +1,10 @@
+Le sentiment d’efficacité personnelle peut être défini comme la [[croyance|croyance]] d'une personne dans sa capacité à réussir et à atteindre ses objectifs. Il s'agit de la perception qu'a un individu de sa capacité à mobiliser ses ressources cognitives et comportementales pour exercer un contrôle sur les événements de sa vie (Bandura, 2003). Il renvoie aux jugements que les individus portent sur leurs capacités à accomplir des tâches spécifiques.
+
+Le sentiment d’efficacité personnelle joue un rôle crucial dans le développement des [[compétence|compétences]] car il détermine les choix d'activités et d'[[environnement]]s que les individus effectuent, l'effort et la persistance qu'ils déploient face aux obstacles, leur résilience face à l'échec. Plus le sentiment d’efficacité personnelle est élevé, plus les individus s'engagent dans des tâches difficiles, font preuve d’efforts et de persistance, et sont efficaces dans leur fonctionnement (Bandura, 1997).
+
+Plus spécifiquement, le développement du sentiment d’efficacité personnelle est essentiel pour l’adaptation aux changements et pour l'évolution des [[comportement|comportements]] (Bandura, 1997 ; Karoly & Panis, 2004). Il permet de relever des défis, de gérer des situations d’incertitude et de s’engager dans un processus d’apprentissage continu nécessaire à l’[[employabilité|employabilité]].
+
+Le sentiment d’efficacité personnelle s’acquiert à travers quatre sources principales : les expériences actives de maîtrise, l’observation des réussites des modèles (également appelée apprentissage vicariant),  la persuasion verbale, et l’état physiologique et [[émotion|émotionnel]] (Bandura, 1997). Plus une personne aura d’opportunités de développer ces sources d’information, plus son sentiment d’efficacité personnelle sera élevé.
+
+>[!Pour en savoir plus]
+>**[Rendez-vous ici](https://vimeo.com/showcase/capacitedagir) avec votre code secret…** 

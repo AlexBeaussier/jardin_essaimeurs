@@ -1,0 +1,6 @@
+La **théorie sociale cognitive** (TSC, ou SCT en anglais), ou théorie sociocognitive, utilisée en psychologie, éducation et communication, défend l'idée selon laquelle l'individu acquiert des connaissances grâce à l'observation des autres, notamment dans le cadre des interactions sociales, des expériences et en dehors de l'influence des médias.
+
+Cette théorie a été formalisée par le psychologue canadien [[Albert Bandura]]. Originellement, Bandura a appelé ce champ théorique la [théorie de l'apprentissage social](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27apprentissage_social "Théorie de l'apprentissage social"). Il a modifié cette appellation en 1986 dans son ouvrage _Social Foundations of Thought and Action_.
+
+> [!NOTE] À noter
+> Bandura a modifié le nom de la théorie pour plusieurs raisons. D'une part, d'autres théories de l'[[apprentissage]] social étaient publiées, ce qui prêtait à confusion. D'autre part, son approche théorique a dépassé le cadre de l'apprentissage pour s'intéresser aux aspects cognitifs influencés par l'[[environnement]] : la [[motivation]], la régulation de soi et de ses [[comportement|comportements]], et la création de système sociaux pour organiser et structurer leur vie.
